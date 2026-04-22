@@ -50,6 +50,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lanzarote0tr&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzarote0tr&langs_count=8&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzarote0tr&langs_count=6&layout=compact&theme=transparent" />
 </div>
 
