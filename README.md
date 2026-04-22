@@ -49,7 +49,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanzarote0tr&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lanzarote0tr&show_icons=true&theme=default#gh-light-mode-only" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzarote0tr&langs_count=6&layout=compact&theme=transparent" />
 </div>
 
