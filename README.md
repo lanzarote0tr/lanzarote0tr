@@ -72,7 +72,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanzarote0tr&show_icons=true&theme=default#gh-light-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzarote0tr&langs_count=8&layout=compact&show_icons=true&theme=default#gh-light-mode-only" />
+  <img src="https://github-readme-stats-henna-three-78.vercel.app/api?username=lanzarote0tr&show_icons=true&theme=default#gh-light-mode-only" />
+  <img src="https://github-readme-stats-henna-three-78.vercel.app/api/top-langs/?username=lanzarote0tr&langs_count=8&layout=compact&show_icons=true&theme=default#gh-light-mode-only" />
 </div>
 
